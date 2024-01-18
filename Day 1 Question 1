@@ -1,3 +1,4 @@
+// Finding the Peak Element from a Mountain Array - LeetCode
 class Solution {
 public:
     int findPeakElement(vector<int>& nums) {
