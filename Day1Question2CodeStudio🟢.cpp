@@ -1,4 +1,4 @@
-Question Link : https://www.codingninjas.com/studio/problems/square-root-integral_893351?topList=love-babbar-dsa-sheet-problems&problemListRedirection=true
+// Question Link : https://www.codingninjas.com/studio/problems/square-root-integral_893351?topList=love-babbar-dsa-sheet-problems&problemListRedirection=true
 int binarySearch (int n) {
     int s = 0;
     int e = n;
